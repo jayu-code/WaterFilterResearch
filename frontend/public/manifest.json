@@ -1,0 +1,9 @@
+{
+  "name": "Water Filter Finder",
+  "short_name": "WaterFilter",
+  "description": "Find the best value water filters based on your local water quality",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0066CC",
+  "background_color": "#FFFFFF"
+}
